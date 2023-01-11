@@ -1,2 +1,2 @@
-# HospitalApplication
+# JavaBankingApp
 java newbie
